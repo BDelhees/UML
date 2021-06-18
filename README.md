@@ -11,9 +11,11 @@ I evaluate whether a country is elgible for foreign aid via clustering based on 
 Spyder (Python 3.8) was used to write the code. The scripts can be run in numerical order. 
 
 
-## Dataset
+## Datasets
 
 The dataset utilized in this analysis is from Kaggle (URL: https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data ) and contains 167 countries and several socio-economic variables.
+
+The Freedom-House dataset was used to supplement the analysis in this paper (URL: https://freedomhouse.org/report/freedom-world )
 
 
 
