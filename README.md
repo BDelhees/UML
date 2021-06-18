@@ -18,4 +18,6 @@ The dataset utilized in this analysis is from Kaggle (URL: https://www.kaggle.co
 The Freedom-House dataset was used to supplement the analysis in this paper (URL: https://freedomhouse.org/report/freedom-world )
 
 
+## Code
 
+To run the code, the datapath has to be changed.
