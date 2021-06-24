@@ -1,4 +1,4 @@
-# UML
+# Unsupervised Machine Learning
 ## Description
 
 This repository is based on a lecture from the University of Lucerne in Applied Data Science. 
